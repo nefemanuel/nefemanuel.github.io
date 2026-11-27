@@ -12,6 +12,6 @@ citation: 'Emanuel, N. (2026). &quot;Damp places, unhappy faces: local authority
 
 Council housing in England continues to make headlines for its condition, and austerity has shaped how local authorities spend on their services. This paper asks how investment in the upkeep of council housing affects residents' mental and physical wellbeing over time, and whether tenants in poor housing conditions are more sensitive to repairs spending.
 
-Using *Understanding Society* linked to local authority expenditure records for 2013 to 2022, and two-way fixed effects models, it finds that higher repairs and maintenance spending per dwelling is positively associated with the wellbeing of residents living in inadequate conditions, with no detectable association for those in adequate housing.
+Using Understanding Society linked to local authority expenditure records for 2013 to 2022, and two-way fixed effects models, it finds that higher repairs and maintenance spending per dwelling is positively associated with the wellbeing of residents living in inadequate conditions, with no detectable association for those in adequate housing.
 
 Winner of the Barnett Prize 2025 (Department of Social Policy and Intervention, University of Oxford) and Highly Commended for the Housing Studies Association's Valerie Karn Prize.
