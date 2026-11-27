@@ -12,13 +12,20 @@ It is driven by a commitment to understanding how housing systems produce and re
 Doctoral research
 ======
 
-My thesis examines local authority housing disinvestment, tenure transitions and resident outcomes in England. It links the British Household Panel Survey and *Understanding Society* to local government expenditure and housing records.
+My thesis examines local authority housing disinvestment, tenure transitions and resident outcomes in England. It links the British Household Panel Survey and Understanding Society to local government expenditure and housing records.
 
 **Repairs spending and wellbeing.** How does investment in the upkeep of council housing affect residents' mental and physical wellbeing, and are tenants in poor conditions more sensitive to it? Published in *Housing Studies* (2026); see [Publications](/publications/).
 
-**To Stay or Go? The Effect of Local Authority Housing Investment on the Residential Mobility of Tenants.** How investment in council housing shapes whether tenants stay in or leave the tenure. In progress.
+**To Stay or Go? The Effect of Local Authority Housing Investment on the Residential Mobility of Tenants.** How investment in council housing shapes whether tenants stay in the tenure or leave it. In progress.
 
 **From Whitehall to Town Hall: Housing, Austerity and the Reordering of Local Authority Budgets.** How cuts in central government funding changed what English local authorities spend on housing. In progress.
+
+Oxford Housing Research Group (OxHouse)
+======
+
+I co-founded and chair OxHouse, a cross-departmental group for researchers at the University of Oxford working on housing. We set it up in March 2025 because housing research at Oxford is spread across many departments, with the aim of encouraging exchange and collaboration between them.
+
+The group meets twice a term. Members present either early-stage projects in a short format or fully developed papers for detailed comment. We also share conferences, seminars and job postings, and put members with overlapping interests in touch with one another.
 
 Methods and data
 ======
